@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pr22LJGP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pr22LJGP_jar</output-path>
+    <root id="archive" name="Pr22LJGP.jar">
+      <element id="module-output" name="Pr22LJGP" />
+    </root>
+  </artifact>
+</component>
